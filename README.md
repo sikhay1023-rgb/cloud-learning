@@ -1,15 +1,41 @@
-# Hi, I'm Sikha 👋
+# ☁️ Cloud Learning Journey
 
-🎓 B.Sc. Computer Science Student
+Hi! I'm **Sikha Yadav** 👋
 
-☁️ Learning Cloud Engineering
+B.Sc. Computer Science Student passionate about Cloud Engineering.
 
-Currently Learning
+# 🚀 Learning Roadmap
+- ✅ Linux Unhatched
+- ✅ Networking Basics
+- 🔄 AWS Cloud Technical Essentials
+- ⏳ Git & GitHub
+- ⏳ Docker
+- ⏳ Terraform
+- ⏳ Kubernetes
+  
+## 📂 Repository Structure
+```text
+linux/
+networking/
+aws/
+projects/
+images/
+```
+
+## 🎯 Goals
+- Build cloud projects
+- Learn AWS
+- Learn Docker
+- Learn Terraform
+- Become Cloud Engineer
+
+  ## 🛠 Skills
 - Linux
-- AWS
-- Git & GitHub
+- Git
+- GitHub
+- Networking
+- Python
 
-Upcoming
-- Docker
-- Terraform
-- Kubernetes
+  # Thank you for visiting my repository! 😊
+
+  
