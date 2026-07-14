@@ -7,8 +7,8 @@ B.Sc. Computer Science Student passionate about Cloud Engineering.
 # 🚀 Learning Roadmap
 - ✅ Linux Unhatched
 - ✅ Networking Basics
+- ✅ Git & GitHub
 - 🔄 AWS Cloud Technical Essentials
-- ⏳ Git & GitHub
 - ⏳ Docker
 - ⏳ Terraform
 - ⏳ Kubernetes
